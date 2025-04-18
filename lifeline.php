@@ -1,6 +1,6 @@
 <?php
 $projects = [
-    'goffixlifeline' => 'active'
+    'goffixlifeline' => 'disable'
 ];
 
 $project_id = $_GET['project'] ?? '';
